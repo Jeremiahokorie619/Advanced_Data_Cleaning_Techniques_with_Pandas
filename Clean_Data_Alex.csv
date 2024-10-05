@@ -1,0 +1,11 @@
+,Customer ID,First_Name,Last_Name,Phone_Number,Street_Address,State,Paying Customer,Do_Not_Contact
+0,1001,Frodo,Baggins,123-555-5421,123 Shire Lane, Shire,Y,N
+2,1003,Walter,White,123-643-9775,298 Albuquerque, New Mexico,Y,N
+3,1004,Dwight,Schrute,809-879-8738,980 Paper Avenue, Pensylvania,Y,N
+6,1007,Jeff,Winger,123-555-6421,1209 South Park, Central City,Y,N
+9,1010,Peter,Parker,876-324-6825,25th Main Street, New York,Y,N
+10,1011,Samwise,Gamgee,153-443-1475,612 Shire Lane, Shire,Y,N
+11,1012,Harry,Potter,123-555-3421,432 Hogwarts Academy, Diagon Alley,N,
+15,1016,Ron,Weasley,521-324-6829,492 Gryffindor House, Hogwarts,N,
+16,1017,Michael,Scott,123-555-5442,121 Paper Avenue, Pensylvania,Y,N
+19,1020,Anakin,Skywalker,123-565-5421,910 Tatooine Road, Tatooine,Y,N

@@ -1,0 +1,22 @@
+Customer ID,First_Name,Last_Name,Phone_Number,Address,Paying Customer,Do_Not_Contact,Not_Useful_Column
+1001,Frodo,Baggins,123-555-5421,"123 Shire Lane, Shire",Yes,No,TRUE
+1002,Abed,Nadir,123/643/9775,"93 West Main, Manhattan",No,Yes,FALSE
+1003,Walter,/White,123/643/9775,"298 Albuquerque, New Mexico",Y,N,TRUE
+1004,Dwight,Schrute,8098798738,"980 Paper Avenue, Pensylvania",Yes,No,FALSE
+1005,Jon,Snow,NaN,"123 Khaleesi str, Westeros",Yes,No,FALSE
+1006,Ron,Swanson,8033272314,"786 City Parkway, New York",No,Yes,FALSE
+1007,Jeff,Winger,123-555-6421,"1209 South Park, Central City",Y,N,FALSE
+1008,Sherlock,Holmes,8165921732,"98 Clue Drives, England",N,Y,FALSE
+1009,Gandalf,NaN,N/a,"123 Middle Earth, Sauron",No,Yes,FALSE
+1010,Peter,Parker,876|324|682,"25th Main Street, New York",Yes,No,FALSE
+1011,Samwise,Gamgee,153/443/1475,"612 Shire Lane, Shire",Y,N,FALSE
+1012,Harry,_Potter,123-555-3421,"432 Hogwarts Academy, Diagon Alley",N/a,N/a,TRUE
+1013,Don,Draper,NaN,"2033 Main Street, Alabama",N,Y,TRUE
+1014,Leslie,Knope,8088213604,"311 City Parkway, Queens",No,Yes,TRUE
+1015,Toby,Flenderson_,N/a,"231 HR Avenue, LA",Y,N,TRUE
+1016,Ron,Weasley,521|324|6829,"492 Gryffindor House, Hogwarts",NaN,NaN,TRUE
+1017,Michael,Scott,123-555-5442,"121 Paper Avenue, Pensylvania",Y,N,FALSE
+1018,Clark,Kent,304|124|6238,"535 Daily Sun, Metropolis",N,Y,TRUE
+1019,Creed,Braton,N/a,N/a,No,Yes,FALSE
+1020,Anakin,Skywalker,123-565-5421,"910 Tatooine Road, Tatooine",Yes,No,TRUE
+1020,Anakin,Skywalker,123-565-5421,"910 Tatooine Road, Tatooine",Yes,No,TRUE
